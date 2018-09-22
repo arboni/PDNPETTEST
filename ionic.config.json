@@ -1,0 +1,7 @@
+{
+  "name": "meuslivros",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
